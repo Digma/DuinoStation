@@ -1,1 +1,0 @@
-/usr/bin/cc      CMakeFiles/dsp.dir/dsp.c.o  -o ../../bin/dsp -rdynamic ../../lib/libemokit.a ../../lib/libemokit_dsp.a -lplot /usr/local/lib/libfftw3.a -lmcrypt /usr/local/lib/libhidapi-hidraw.so ../../lib/libemokit.a -lm /usr/local/lib/libfftw3.a -lmcrypt /usr/local/lib/libhidapi-hidraw.so -Wl,-rpath,/usr/local/lib:/usr/local/lib 

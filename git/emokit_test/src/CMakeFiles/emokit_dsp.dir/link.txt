@@ -1,2 +1,0 @@
-/usr/bin/ar cr ../lib/libemokit_dsp.a  CMakeFiles/emokit_dsp.dir/emokit_dsp.c.o
-/usr/bin/ranlib ../lib/libemokit_dsp.a
