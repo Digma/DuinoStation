@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gael/emokit_test/examples/dsp/dsp.c
+stdio.h
+-
+string.h
+-
+emokit/emokit.h
+/home/gael/emokit_test/examples/dsp/emokit/emokit.h
+emokit/emokit_dsp.h
+/home/gael/emokit_test/examples/dsp/emokit/emokit_dsp.h
+
+/usr/local/include/fftw3.h
+stdio.h
+-
+stddef.h
+-
+
+include/emokit/emokit.h
+stdint.h
+-
+
+include/emokit/emokit_dsp.h
+emokit.h
+include/emokit/emokit.h
+fftw3.h
+-
+math.h
+-
+stdlib.h
+-
+
