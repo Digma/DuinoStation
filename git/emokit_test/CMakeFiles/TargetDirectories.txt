@@ -1,0 +1,7 @@
+/home/gael/emokit_test/examples/contact/CMakeFiles/contact.dir
+/home/gael/emokit_test/examples/dsp/CMakeFiles/dsp.dir
+/home/gael/emokit_test/src/CMakeFiles/emokit.dir
+/home/gael/emokit_test/src/CMakeFiles/emokit_dsp.dir
+/home/gael/emokit_test/examples/emokit_osc/CMakeFiles/emokit_osc.dir
+/home/gael/emokit_test/examples/emokitd/CMakeFiles/emokitd.dir
+/home/gael/emokit_test/include/oscpack/CMakeFiles/oscpack.dir
